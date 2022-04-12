@@ -2,6 +2,7 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 import { BrowserRouter as Router } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.css';
+import 'antd/dist/antd.css';
 import App from './App';
 
 const container = document.getElementById('root');
